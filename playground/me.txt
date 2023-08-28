@@ -1,0 +1,5 @@
+{{#user}}
+Name: Vignesh V
+Skills: python,HTML,CSS,DBMS,figma
+Email: vigneshv1867@gmail.com
+{{/user}}
